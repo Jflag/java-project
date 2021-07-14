@@ -19,5 +19,6 @@ public class CollectionIterator {
         }
         System.out.println("hello");
         System.out.println("hello222");
+        System.out.println("master test");
     }
 }
