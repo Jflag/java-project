@@ -12,6 +12,7 @@ public class CollectionIterator {
         list.add("张三");
         list.add("李四");
         list.add("王五");
+        list.add("李六");
         Iterator i = list.iterator();
         while(i.hasNext()){
             System.out.println(i.next());
