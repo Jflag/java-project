@@ -18,5 +18,6 @@ public class CollectionIterator {
             System.out.println(i.next());
         }
         System.out.println("hello");
+        System.out.println("hello222");
     }
 }
