@@ -21,5 +21,6 @@ public class CollectionIterator {
         System.out.println("hello222");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("push test");
     }
 }
